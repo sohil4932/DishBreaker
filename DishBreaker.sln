@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DishBreaker", "DishBreaker\DishBreaker\DishBreaker.csproj", "{61199A25-2882-4DA4-BD18-2CFEEC1D4B7C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "DishBreakerContent", "DishBreaker\DishBreakerContent\DishBreakerContent.contentproj", "{B51DEA78-A3FF-40E1-BE39-99BD9140BCC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61199A25-2882-4DA4-BD18-2CFEEC1D4B7C}.Debug|x86.ActiveCfg = Debug|x86
+		{61199A25-2882-4DA4-BD18-2CFEEC1D4B7C}.Debug|x86.Build.0 = Debug|x86
+		{61199A25-2882-4DA4-BD18-2CFEEC1D4B7C}.Release|x86.ActiveCfg = Release|x86
+		{61199A25-2882-4DA4-BD18-2CFEEC1D4B7C}.Release|x86.Build.0 = Release|x86
+		{B51DEA78-A3FF-40E1-BE39-99BD9140BCC8}.Debug|x86.ActiveCfg = Debug|x86
+		{B51DEA78-A3FF-40E1-BE39-99BD9140BCC8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
